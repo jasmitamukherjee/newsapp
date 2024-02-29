@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 33,
+    "articles": [
+   {
+    "source": {
+    "id": "the-washington-post",
+    "name": "The Washington Post"
+    },
+    "author": "Jennifer Hassan",
+    "title": "Oprah Winfrey to exit WeightWatchers board, a blow as weight-loss drugs surge - The Washington Post",
+    "description": "Winfrey leaves as weight-loss firms grapple with the rise in injectable drugs like Ozempic and Wegovy. WeightWatchers’ shares fell 27 percent after the news.",
+    "url": "https://www.washingtonpost.com/business/2024/02/29/oprah-winfrey-weightwatchers-board/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/U26DXVYDVERL44DMJWKJJP565Y.jpg&w=1440",
+    "publishedAt": "2024-02-29T12:39:58Z",
+    "content": "Oprah Winfrey is leaving the board of WeightWatchers after eight years in the role, dealing a new blow to the company as it grapples with financial losses and navigates competition from weight-loss d… [+3934 chars]"
+    },
+   {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": "Reuters",
+    "title": "Putin warns West of risk of nuclear war, says Moscow can strike Western targets - Reuters",
+    "description": null,
+    "url": "https://www.reuters.com/world/europe/putin-warns-west-risk-nuclear-war-says-moscow-can-strike-western-targets-2024-02-29/",
+    "urlToImage": null,
+    "publishedAt": "2024-02-29T11:15:00Z",
+    "content": null
+    },
+   {
+    "source": {
+    "id": "associated-press",
+    "name": "Associated Press"
+    },
+    "author": "WAFAA SHURAFA, KAREEM CHEHAYEB",
+    "title": "Israel-Hamas war: Gaza Health Ministry says over 30,000 Palestinians killed - The Associated Press",
+    "description": "Witnesses say Israeli troops fired on a crowd of Palestinians waiting for aid in Gaza City. According to healthy officials, more than 100 people were killed, bringing the death toll since the start of the Israel-Hamas war to more than 30,000. Hospital officia…",
+    "url": "https://apnews.com/article/israel-hamas-war-news-02-29-2024-f9b5a62a80d8b83eac4946d3c85af58b",
+    "urlToImage": "https://dims.apnews.com/dims4/default/0441b27/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa8%2F65%2F4f23caac3a4fd737a557cf591a7f%2F133c1fdd0c4d4d01b1be61469e7a477e",
+    "publishedAt": "2024-02-29T11:10:00Z",
+    "content": "RAFAH, Gaza Strip (AP) Israeli troops fired on a crowd of Palestinians waiting for aid in Gaza City on Thursday, witnesses said. More than 100 people were killed, bringing the death toll since the st… [+5560 chars]"
+    },
+   {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Joe Sutton, Steve Almasy",
+    "title": "At least 1 dead as large wildfires sweep through the Texas panhandle, including the second-largest blaze in state history - CNN",
+    "description": "The second-largest fire in Texas history continues to burn Thursday, with the blaze – already bigger than Rhode Island – and several others destroying scores of homes in the state’s panhandle and killing at least one person and thousands of cattle.",
+    "url": "https://www.cnn.com/2024/02/29/us/texas-panhandle-smokehouse-creek-fire-thursday/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240228104731-smokehouse-creek-fire.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-02-29T11:08:00Z",
+    "content": "The second-largest fire in Texas history continues to burn Thursday, with the blaze already bigger than Rhode Island and several others destroying scores of homes in the states panhandle and killing … [+5397 chars]"
+    },
+   {
+    "source": {
+    "id": "fox-news",
+    "name": "Fox News"
+    },
+    "author": "Adam Shaw",
+    "title": "Dueling Biden, Trump visits to besieged border come amid fresh slew of violent crimes by illegal immigrants - Fox News",
+    "description": "Former President Donald Trump and President Biden will both head to the southern border on Thursday, as the crisis at the southern border becomes a major 2024 issue.",
+    "url": "https://www.foxnews.com/politics/dueling-biden-trump-visits-besieged-border-come-amid-fresh-slew-violent-crimes-illegal-immigrants",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/02/Trump-Biden.jpg",
+    "publishedAt": "2024-02-29T11:00:00Z",
+    "content": "President Biden and former President Trump will both head to the southern border on Thursday as the besieged southern border becomes a top political issue -- and as the nation is gripped by a wave of… [+4870 chars]"
+    },
+   {
+    "source": {
+    "id": null,
+    "name": "BBC News"
+    },
+    "author": null,
+    "title": "Shohei Ohtani: Baseball superstar announces marriage to Japanese woman - BBC.com",
+    "description": "Shohei Ohtani of the LA Dodgers announces that he has wed and stirs a social media frenzy.",
+    "url": "https://www.bbc.com/news/68432928",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6083/production/_132770742_gettyimages-2046416371.jpg",
+    "publishedAt": "2024-02-29T10:19:07Z",
+    "content": "By Nicholas YongBBC News, Singapore\r\nThe Los Angeles Dodgers star has closely guarded his private life\r\nBaseball superstar Shohei Ohtani, one of Japan's most eligible bachelors, has announced that he… [+2612 chars]"
+    },
+   {
+    "source": {
+    "id": null,
+    "name": "BBC News"
+    },
+    "author": null,
+    "title": "Iran elections: First polls held since 2022 nationwide protests - BBC.com",
+    "description": "Turnout is seen as a crucial test for the regime - but how far is the choice a real one?",
+    "url": "https://www.bbc.com/news/world-middle-east-68422071",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/AB8D/production/_132771934_iran-index1-epa.jpg",
+    "publishedAt": "2024-02-29T10:02:51Z",
+    "content": "By Farnoosh AmirshahiBBC Persian\r\nThe elections are taking place as authorities in Iran continue their crackdown on dissent\r\nThe first elections in Iran since the nationwide anti-government protests … [+6175 chars]"
+    },
+   {
+    "source": {
+    "id": "politico",
+    "name": "Politico"
+    },
+    "author": "POLITICO",
+    "title": "Inside Mitch McConnell's Season of Losses - POLITICO - POLITICO",
+    "description": null,
+    "url": "https://www.politico.com/news/magazine/2024/02/29/mitch-mcconnell-season-of-losses-00144027",
+    "urlToImage": null,
+    "publishedAt": "2024-02-29T10:00:00Z",
+    "content": null
+    },
+   {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Jacob Lev, Dalia Faheid",
+    "title": "Iowa’s Caitlin Clark breaks Lynette Woodard’s record for most career points in major women’s college basketball - CNN",
+    "description": "University of Iowa basketball star Caitlin Clark has surpassed Lynette Woodard for the most points scored in major women’s college basketball history, nearly two weeks after setting another monumental record in the sport and days before she could potentially …",
+    "url": "https://www.cnn.com/2024/02/29/sport/caitlin-clark-lynette-woodard-record-spt/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2024-02-25t183550z-1098009538-mt1usatoday22617345-rtrmadp-3-ncaa-womens-basketball-illinois-at-iowa.JPG?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-02-29T09:43:00Z",
+    "content": "University of Iowa basketball star Caitlin Clark has surpassed Lynette Woodard for the most points scored in major womens college basketball history, nearly two weeks after setting another monumental… [+2040 chars]"
+    },
+   {
+    "source": {
+    "id": null,
+    "name": "NBCSports.com"
+    },
+    "author": "Michael David Smith",
+    "title": "Buccaneers say they'll listen to feedback after low grades on NFLPA report card - NBC Sports",
+    "description": "The NFL Players Association's report card of NFL teams serves as a means of calling out the teams that give players the worst treatment.",
+    "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/buccaneers-say-theyll-listen-to-feedback-after-low-grades-on-nflpa-report-card",
+    "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/fc193b5/2147483647/strip/true/crop/4789x2694+0+143/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd9%2F51%2F24f405a748a3b652163cca9ab6f6%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D13249936",
+    "publishedAt": "2024-02-29T08:31:41Z",
+    "content": "The NFL Players Associations report card of NFL teams serves as a means of calling out the teams that give players the worst treatment. Those teams are taking notice.\r\nThe Buccaneers issued an organi… [+1064 chars]"
+    },
+   {
+    "source": {
+    "id": "mashable",
+    "name": "Mashable"
+    },
+    "author": "Amanda Yeo",
+    "title": "Electronic Arts announces layoffs and cancels Star Wars game - Mashable",
+    "description": "It's EA's second mass layoff in less than a year.",
+    "url": "https://mashable.com/article/ea-electronic-arts-layoffs-star-wars-fps-cancelled",
+    "urlToImage": "https://helios-i.mashable.com/imagery/articles/00umcnCCaiKJeLyMoHrZ8Bd/hero-image.fill.size_1200x675.v1709190791.jpg",
+    "publishedAt": "2024-02-29T08:07:45Z",
+    "content": null
+    },
+   {
+    "source": {
+    "id": "abc-news",
+    "name": "ABC News"
+    },
+    "author": "Patricio Chile, Carson Blackwelder",
+    "title": "Richard Lewis, comedian and 'Curb Your Enthusiasm' actor, dies at 76 - ABC News",
+    "description": "Lewis played a fictionalized version of himself on the HBO comedy.",
+    "url": "https://abcnews.go.com/GMA/Culture/richard-lewis-comedian-curb-enthusiasm-actor-dies-76/story?id=107649359",
+    "urlToImage": "https://i.abcnewsfe.com/a/313f0521-3e3a-4e6e-9a39-0d300bb6a109/richard-lewis-gty-jef-240228_1709153433230_hpMain_16x9.jpg?w=1600",
+    "publishedAt": "2024-02-29T07:51:39Z",
+    "content": "Richard Lewis, the comedian and actor known for his roles on the HBO comedy \"Curb Your Enthusiasm\" and in the film \"Robin Hood: Men in Tights,\" has died. He was 76.\r\nLewis \"passed away peacefully\" at… [+2596 chars]"
+    },
+   {
+    "source": {
+    "id": null,
+    "name": "BBC News"
+    },
+    "author": null,
+    "title": "Illinois judge kicks Trump off primary ballot - BBC.com",
+    "description": "The judge has put her ruling on hold to give Mr Trump time to appeal before the state's primary election.",
+    "url": "https://www.bbc.com/news/world-us-canada-68432465",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/CFCC/production/_132769135_gettyimages-2035861549.jpg",
+    "publishedAt": "2024-02-29T06:59:39Z",
+    "content": "By Madeline HalpertBBC News, New York\r\nAn Illinois judge has ruled that Donald Trump engaged in insurrection and has barred him from the state's primary ballot - though she put the ruling on hold pen… [+2508 chars]"
+    },
+   {
+    "source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": "Liz Calvario",
+    "title": "Cat Janice, singer who went viral for dedicating last song to young son, dies at 31 - Yahoo News",
+    "description": "Cat Janice, a singer who went viral after dedicating her last song to her son, died on Feb. 28.",
+    "url": "https://news.yahoo.com/cat-janice-singer-went-viral-060550353.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/IGBCEa63hUzYNz7JWmv19g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xNTMw/https://media.zenfs.com/en/nbc_today_217/44329183535b5c05f0364fc4e4b44f60",
+    "publishedAt": "2024-02-29T06:05:00Z",
+    "content": "Cat Janice, a singer who went viral after dedicating her last song to her son, died on Feb. 28. She was 31.\r\nJanices family announced her death in an Instagram post, sharing that she was surrounded b… [+2950 chars]"
+    },
+   {
+    "source": {
+    "id": null,
+    "name": "Ynetnews"
+    },
+    "author": "Reuters",
+    "title": "New Zealand lists Hamas as terrorists, sanctions 'extremist' settlers - Ynetnews",
+    "description": "Government says it would continue to support a future Palestinian state as part of a negotiated two-state solution, urging an end to the current conflict and an urgent restart of the Middle East peace process.",
+    "url": "https://www.ynetnews.com/article/skpzl9pha",
+    "urlToImage": "https://ynet-pic1.yit.co.il/picserver5/crop_images/2023/11/29/HJXRnZMHrT/HJXRnZMHrT_107_0_1814_1020_0_large.jpg",
+    "publishedAt": "2024-02-29T05:43:56Z",
+    "content": "\"\r\n window._taboola = window._taboola || [];\r\n _taboola.push({flush: true});\r\n\""
+    },
+   {
+    "source": {
+    "id": "axios",
+    "name": "Axios"
+    },
+    "author": "Axios",
+    "title": "Congress reaches deal to punt government shutdown - Axios",
+    "description": null,
+    "url": "https://www.axios.com/2024/02/28/congress-deal-to-punt-government-shutdown",
+    "urlToImage": null,
+    "publishedAt": "2024-02-29T05:32:44Z",
+    "content": null
+    },
+   {
+    "source": {
+    "id": "associated-press",
+    "name": "Associated Press"
+    },
+    "author": "REBECCA BOONE, GENE JOHNSON",
+    "title": "Things to know about Idaho's botched execution of serial killer Thomas Eugene Creech - The Associated Press",
+    "description": "For nearly an hour, Thomas Eugene Creech lay strapped to a table in an Idaho execution chamber as medical team members poked and prodded at his arms and legs, hands and feet, trying to find a vein through which they could end his life. After eight attempts We…",
+    "url": "https://apnews.com/article/creech-idaho-botched-execution-lethal-injection-905e6f0a096ed826d8273b9a0fa7001c",
+    "urlToImage": "https://dims.apnews.com/dims4/default/22ffaf1/2147483647/strip/true/crop/2453x1380+0+585/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd7%2Fd2%2F54d7a44f894c6c4fc0ec7d20f51a%2F64611b4ab95e462cab8bb6fe2a7692fb",
+    "publishedAt": "2024-02-29T05:09:18Z",
+    "content": "KUNA, Idaho (AP) For nearly an hour, Thomas Eugene Creech lay strapped to a table in an Idaho execution chamber as medical team members poked and prodded at his arms and legs, hands and feet, trying … [+6596 chars]"
+    },
+   {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Alex Marquardt",
+    "title": "Concern rising among Biden officials Israel may launch incursion into Lebanon - CNN",
+    "description": "American administration and intelligence officials are concerned that Israel is planning a ground incursion into Lebanon that could be launched in the late spring or early summer if diplomatic efforts fail to push Hezbollah back from the northern border with …",
+    "url": "https://www.cnn.com/2024/02/29/politics/concern-rising-biden-officials-israel-lebanon-incursion/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2037160329.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-02-29T05:00:00Z",
+    "content": "American administration and intelligence officials are concerned that Israel is planning a ground incursion into Lebanon that could be launched in the late spring or early summer if diplomatic effort… [+7545 chars]"
+    },
+   {
+    "source": {
+    "id": null,
+    "name": "Kotaku"
+    },
+    "author": "Claire Jackson",
+    "title": "FF7 Rebirth Tips: 16 Things To Know Before Starting - Kotaku",
+    "description": "It’s an enormous world for Cloud and his pals to save. Here are some tips to wrap your head around it all",
+    "url": "https://kotaku.com/final-fantasy-7-rebirth-ff7-starting-tips-1851295457",
+    "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/b308ff9e63b48679778c54600a0506b6.jpg",
+    "publishedAt": "2024-02-29T05:00:00Z",
+    "content": "Final Fantasy VII Rebirth, Square Enixs latest RPG, is an enormous game. And like any huge adventure, there are dozens of subsystems, features, and layers to navigate. If youve played the first game … [+9495 chars]"
+    },
+   {
+    "source": {
+    "id": null,
+    "name": "Page Six"
+    },
+    "author": "Tamantha Ryan, Vanessa Serna",
+    "title": "Bravo stars defend Andy Cohen after Leah McSweeney's coke allegations: 'Leave him alone' - Page Six",
+    "description": "“We are in a place where you can’t trust to be friends with anyone coz they be snitching on you even when it’s not reality or truth 😂,” Chanel Ayan said.",
+    "url": "https://pagesix.com/2024/02/28/entertainment/bravo-stars-defend-andy-cohen-after-leah-mcsweeneys-coke-allegations/",
+    "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2024/02/77372110.jpg?quality=75&strip=all&w=1024",
+    "publishedAt": "2024-02-29T04:30:00Z",
+    "content": "The ladies of the Bravoverse are going to bat for Andy Cohen.\r\nAfter former “Real Housewives of New York City” star Leah McSweeney claimed in a bombshell lawsuit that the executive producer snorts co… [+4670 chars]"
+    }
+    ]
+    }
