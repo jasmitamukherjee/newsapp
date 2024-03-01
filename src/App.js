@@ -12,7 +12,7 @@ import {
 import About from './components/About';
 
 export default class App extends Component {
-  pageSize=15
+  pageSize=9
   
   render() {
     return (
