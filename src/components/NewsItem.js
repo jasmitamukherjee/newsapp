@@ -10,10 +10,13 @@ export class NewsItem extends Component {
         return (
             <div className='my-3'>
                 <div className="card h-100">
-                <span className="position-absolute top-0  translate-middle badge rounded-pill bg-danger" style={{left : "90%",zIndex:"1"}}>
+                    <div style={{display:"flex",justifyContent:"flex-end",position:"absolute",right:"0"}}>
+                    <span className=" badge square-pill bg-danger" >
     {source}
     
   </span>
+                    </div>
+              
 
                     <img src={imgUrl?imgUrl:"https://g.foolcdn.com/editorial/images/766881/a-human-like-head-with-lines-of-ai-computer-code-reflected-off-the-surface-and-projected-on-the-nearby-wall.jpg"}className="card-img-top" alt="..." />
                     <div className="card-body d-flex flex-column">
